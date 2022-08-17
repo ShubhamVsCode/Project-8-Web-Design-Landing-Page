@@ -4,7 +4,7 @@ By Shubham
 
 Here's the Live Deployed Website ![Project 8](https://img.shields.io/badge/Project-8-brightgreen)
 
-## [DEPLOYED WEBSITE LINK](https://ineuroncart.netlify.app/)
+## [DEPLOYED WEBSITE LINK](https://ineurondesign.netlify.app/)
 
 ![Completed Website](./readmeImages/completedScreenshot.jpg)
 
